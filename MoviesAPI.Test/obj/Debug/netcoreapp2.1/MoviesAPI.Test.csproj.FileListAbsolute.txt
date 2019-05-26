@@ -1,0 +1,14 @@
+C:\external\Async - Await\DownloadMoviesAsyncAwait\MoviesAPI.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\external\Async - Await\DownloadMoviesAsyncAwait\MoviesAPI.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\external\Async - Await\DownloadMoviesAsyncAwait\MoviesAPI.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\external\Async - Await\DownloadMoviesAsyncAwait\MoviesAPI.Test\bin\Debug\netcoreapp2.1\MoviesAPI.Test.deps.json
+C:\external\Async - Await\DownloadMoviesAsyncAwait\MoviesAPI.Test\bin\Debug\netcoreapp2.1\MoviesAPI.Test.runtimeconfig.json
+C:\external\Async - Await\DownloadMoviesAsyncAwait\MoviesAPI.Test\bin\Debug\netcoreapp2.1\MoviesAPI.Test.runtimeconfig.dev.json
+C:\external\Async - Await\DownloadMoviesAsyncAwait\MoviesAPI.Test\bin\Debug\netcoreapp2.1\MoviesAPI.Test.dll
+C:\external\Async - Await\DownloadMoviesAsyncAwait\MoviesAPI.Test\bin\Debug\netcoreapp2.1\MoviesAPI.Test.pdb
+C:\external\Async - Await\DownloadMoviesAsyncAwait\MoviesAPI.Test\obj\Debug\netcoreapp2.1\MoviesAPI.Test.csprojAssemblyReference.cache
+C:\external\Async - Await\DownloadMoviesAsyncAwait\MoviesAPI.Test\obj\Debug\netcoreapp2.1\MoviesAPI.Test.csproj.CoreCompileInputs.cache
+C:\external\Async - Await\DownloadMoviesAsyncAwait\MoviesAPI.Test\obj\Debug\netcoreapp2.1\MoviesAPI.Test.AssemblyInfoInputs.cache
+C:\external\Async - Await\DownloadMoviesAsyncAwait\MoviesAPI.Test\obj\Debug\netcoreapp2.1\MoviesAPI.Test.AssemblyInfo.cs
+C:\external\Async - Await\DownloadMoviesAsyncAwait\MoviesAPI.Test\obj\Debug\netcoreapp2.1\MoviesAPI.Test.dll
+C:\external\Async - Await\DownloadMoviesAsyncAwait\MoviesAPI.Test\obj\Debug\netcoreapp2.1\MoviesAPI.Test.pdb

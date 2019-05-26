@@ -1,0 +1,14 @@
+C:\external\Async - Await\DownloadMoviesAsyncAwait\MoviesAPI.Service\bin\Debug\netcoreapp2.1\MoviesAPI.Service.deps.json
+C:\external\Async - Await\DownloadMoviesAsyncAwait\MoviesAPI.Service\bin\Debug\netcoreapp2.1\MoviesAPI.Service.dll
+C:\external\Async - Await\DownloadMoviesAsyncAwait\MoviesAPI.Service\bin\Debug\netcoreapp2.1\MoviesAPI.Service.pdb
+C:\external\Async - Await\DownloadMoviesAsyncAwait\MoviesAPI.Service\obj\Debug\netcoreapp2.1\MoviesAPI.Service.csprojAssemblyReference.cache
+C:\external\Async - Await\DownloadMoviesAsyncAwait\MoviesAPI.Service\obj\Debug\netcoreapp2.1\MoviesAPI.Service.csproj.CoreCompileInputs.cache
+C:\external\Async - Await\DownloadMoviesAsyncAwait\MoviesAPI.Service\obj\Debug\netcoreapp2.1\MoviesAPI.Service.AssemblyInfoInputs.cache
+C:\external\Async - Await\DownloadMoviesAsyncAwait\MoviesAPI.Service\obj\Debug\netcoreapp2.1\MoviesAPI.Service.AssemblyInfo.cs
+C:\external\Async - Await\DownloadMoviesAsyncAwait\MoviesAPI.Service\obj\Debug\netcoreapp2.1\MoviesAPI.Service.dll
+C:\external\Async - Await\DownloadMoviesAsyncAwait\MoviesAPI.Service\obj\Debug\netcoreapp2.1\MoviesAPI.Service.pdb
+C:\external\Async - Await\DownloadMoviesAsyncAwait\MoviesAPI.Service\bin\Debug\netcoreapp2.1\MoviesAPI.Domain.dll
+C:\external\Async - Await\DownloadMoviesAsyncAwait\MoviesAPI.Service\bin\Debug\netcoreapp2.1\MoviesAPI.Repository.dll
+C:\external\Async - Await\DownloadMoviesAsyncAwait\MoviesAPI.Service\bin\Debug\netcoreapp2.1\MoviesAPI.Domain.pdb
+C:\external\Async - Await\DownloadMoviesAsyncAwait\MoviesAPI.Service\bin\Debug\netcoreapp2.1\MoviesAPI.Repository.pdb
+C:\external\Async - Await\DownloadMoviesAsyncAwait\MoviesAPI.Service\obj\Debug\netcoreapp2.1\MoviesAPI.Service.csproj.CopyComplete

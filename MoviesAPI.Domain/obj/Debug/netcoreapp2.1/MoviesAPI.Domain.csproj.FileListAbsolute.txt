@@ -1,0 +1,9 @@
+C:\external\Async - Await\DownloadMoviesAsyncAwait\MoviesAPI.Domain\bin\Debug\netcoreapp2.1\MoviesAPI.Domain.deps.json
+C:\external\Async - Await\DownloadMoviesAsyncAwait\MoviesAPI.Domain\bin\Debug\netcoreapp2.1\MoviesAPI.Domain.dll
+C:\external\Async - Await\DownloadMoviesAsyncAwait\MoviesAPI.Domain\bin\Debug\netcoreapp2.1\MoviesAPI.Domain.pdb
+C:\external\Async - Await\DownloadMoviesAsyncAwait\MoviesAPI.Domain\obj\Debug\netcoreapp2.1\MoviesAPI.Domain.csproj.CoreCompileInputs.cache
+C:\external\Async - Await\DownloadMoviesAsyncAwait\MoviesAPI.Domain\obj\Debug\netcoreapp2.1\MoviesAPI.Domain.AssemblyInfoInputs.cache
+C:\external\Async - Await\DownloadMoviesAsyncAwait\MoviesAPI.Domain\obj\Debug\netcoreapp2.1\MoviesAPI.Domain.AssemblyInfo.cs
+C:\external\Async - Await\DownloadMoviesAsyncAwait\MoviesAPI.Domain\obj\Debug\netcoreapp2.1\MoviesAPI.Domain.dll
+C:\external\Async - Await\DownloadMoviesAsyncAwait\MoviesAPI.Domain\obj\Debug\netcoreapp2.1\MoviesAPI.Domain.pdb
+C:\external\Async - Await\DownloadMoviesAsyncAwait\MoviesAPI.Domain\obj\Debug\netcoreapp2.1\MoviesAPI.Domain.csprojAssemblyReference.cache
