@@ -51,7 +51,7 @@ namespace MoviesAPI.Controllers
         [ProducesResponseType((int)HttpStatusCode.NotFound)]
         [ProducesResponseType(typeof(IEnumerable<MovieViewModel>), (int)HttpStatusCode.OK)]
         [ProducesResponseType(typeof(IEnumerable<MovieViewModel>), 210)]
-        public async Task<ActionResult<IEnumerable<MovieViewModel>>> GetAsync()
+        public virtual async Task<ActionResult<IEnumerable<MovieViewModel>>> GetAsync()
         {
             var movies = await _IMovieService.GetAsync();
 

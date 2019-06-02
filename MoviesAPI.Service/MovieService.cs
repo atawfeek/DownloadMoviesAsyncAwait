@@ -15,7 +15,7 @@ namespace MoviesAPI.Service
             _movieRepository = movieRepository;
         }
 
-        public async Task<IEnumerable<MovieModel>> GetAsync()
+        public virtual async Task<IEnumerable<MovieModel>> GetAsync()
         {
             var videos = await _movieRepository.GetAsync();
 

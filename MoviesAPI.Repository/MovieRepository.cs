@@ -21,7 +21,7 @@ namespace MoviesAPI.Repository
             _mapper = mapper;
         }
 
-        public async Task<IEnumerable<MovieModel>> GetAsync()
+        public virtual async Task<IEnumerable<MovieModel>> GetAsync()
         {
             /// The way you get configurations in controller
             /// [access config methodology]

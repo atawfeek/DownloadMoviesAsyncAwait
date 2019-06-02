@@ -7,10 +7,19 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="6.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.1.1" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.9.0" />
     <PackageReference Include="Moq" Version="4.10.1" />
     <PackageReference Include="xunit" Version="2.4.0" />
     <PackageReference Include="xunit.runner.visualstudio" Version="2.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MoviesAPI.Domain\MoviesAPI.Domain.csproj" />
+    <ProjectReference Include="..\MoviesAPI.Repository\MoviesAPI.Repository.csproj" />
+    <ProjectReference Include="..\MoviesAPI.Service\MoviesAPI.Service.csproj" />
+    <ProjectReference Include="..\MoviesAPI\MoviesAPI.csproj" />
   </ItemGroup>
 
 </Project>
